@@ -5,7 +5,20 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   <summary> Server </summary>
   
   ## Server hardware
-  <i>to do</i>
+  The server is a selfbuild one. It's based on the [work of @mrmrmr](https://gathering.tweakers.net/forum/list_messages/1673583) to be a low energie build. It's original build as a cloudserver (Nextcloud) for two small companies.
+  
+  |Device              |Manufractor        |Model/type                |Amount  |Note                              |
+  |--------------------|-------------------|--------------------------|:------:|----------------------------------|
+  |Motherboard         |Fujitsu            |D3642-B                   |1       |                                  |
+  |CPU                 |Intel              |i3-8100                   |1       |                                  |
+  |Cooler              |Artic              |Alpine 12 Passive         |1       |                                  |
+  |Memory              |Samsung            |M391A2K43BB1-CTD - 16GB   |2x      |                                  |
+  |Harddrive           |Intel              |660p - 1TB                |1       |M2 SSD; host drive                |
+  |Harddrive           |Seagate            |Expansion Portable - 5TB  |3       |Disassembled; RaidZ1; data drives |
+  |Hardrive            |Seagate            |Expansion Portable - 5TB  |1       |back-up drive                     |
+  |Power               |Mini-Box           |PicoPSU 90                |1       |                                  |
+  |AC-adapter          |Leicke             |ULL Power Suply 120W      |1       |                                  |
+  |Case                |Be Quiet           |Pure Base 600             |1       |                                  |
   
 </details>
   
