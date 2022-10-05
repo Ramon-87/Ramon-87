@@ -7,20 +7,21 @@
 </details>
   
 <details>
-    <summary> Ubiquiti Unifi </summary>
-      ## Network hardware
+  <summary> Ubiquiti Unifi </summary>
+     
+  ## Network hardware
   
-      My network is build on Ubiquiti's Unifi. Unfortunately Ubiquiti isn't always that stable and there are some functions still missing on their controller. But I must admit, I love the all in one solution and UI.
+  My network is build on Ubiquiti's Unifi. Unfortunately Ubiquiti isn't always that stable and there are some functions still missing on their controller. But I must admit, I love the all in one solution and UI.
   
-      <b>[UDM Pro](https://eu.store.ui.com/products/udm-pro)</b>
-      <i>The one in all controller for my Unifi Network and Unifi Protect (video surveillance).</i>
+  <b>[UDM Pro](https://eu.store.ui.com/products/udm-pro)</b>
+  <i>The one in all controller for my Unifi Network and Unifi Protect (video surveillance).</i>
   
-      <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)
+  <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)
 
-    <summary>## Ubiquiti Unifi</summary>
-    Below you can find my configurations and files I use with my Unifi setup.
+  <summary>## Ubiquiti Unifi</summary>
+  Below you can find my configurations and files I use with my Unifi setup.
   
-      1. Unifi G4 doorbell - sounds
+     1. Unifi G4 doorbell - sounds
 </details>
 
 <details>
