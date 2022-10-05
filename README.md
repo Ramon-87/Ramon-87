@@ -20,10 +20,10 @@
   <i>A 24-ports switch with PoE where al the RJ45 cables are attached to. Some devices receive Power over Ethernet (PoE) from this switch, so there's no additional cable needed.</i>
   
   <b>[Camera G3 Instant](https://eu.store.ui.com/collections/unifi-protect/products/unifi-protect-g3-instant-camera)</b><br />
-  <i>This little camera is my portable camera. I'm not a fan of an indoor camara, but this one I've used as dog-cam :dog:.
+  <i>This little camera is my portable camera. I'm not a fan of an indoor camara, but this one I've used as dog-cam :dog:.</i>
   
   <b>[Camera G3 Bullet](https://eu.store.ui.com/collections/unifi-protect/products/unifi-video-camera-g3)</b><br />
-    <i>For outside/garden security I'm using this bullet.</i>
+  <i>For outside/garden security I'm using this bullet.</i>
 
   ### Ubiquiti Unifi Configurations
   Below you can find my configurations and files I use with my Unifi setup.
