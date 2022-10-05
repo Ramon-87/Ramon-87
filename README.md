@@ -46,10 +46,12 @@
   <summary> Docker-compose configs </summary>
   
   ### Docker-compose files
-  In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn.
+  In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn. Check my docker-compose files to set up you're favourite programms.
   
-  1. Portainer
-  2. Wishlist
+  1. Portainer (Manager for Docker containers)
+  2. Adguard Home (DNS Server / Ad blocker)
+  3. Nginx Proxy Manager (NPM; Reverse Proxy)
+  4. Wishlist (Create a wishlist for multiple users)
   
 </details>
 
