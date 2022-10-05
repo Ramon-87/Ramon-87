@@ -19,7 +19,7 @@
   <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)</b><br />
   <i>A 24-ports switch with PoE where al the RJ45 cables are attached to. Some devices receive Power over Ethernet (PoE) from this switch, so there's no additional cable needed.</i>
 
-  ## Ubiquiti Unifi
+  ### Ubiquiti Unifi Configurations
   Below you can find my configurations and files I use with my Unifi setup.
   
   1. [Unifi G4 doorbell - sounds](https://github.com/Ramon-87/Unifi-G4-Doorbel-sounds)
@@ -39,10 +39,19 @@
   
   <summary> Docker-compose configs </summary>
   
-  ## Docker-compose configs
+  ## Docker-compose files
   In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn.
   
   1. Portainer
   2. Wishlist
+  
+</details>
+
+<details>
+  
+  <summary> Home Assistant </summary>
+  
+  ## Home Assistant configuration
+  [Home Assistant](https://github.com/home-assistant/core) is a Python based home automation software which can be hosted on you're own server. [The software](https://www.home-assistant.io/) is well supported by [the community](https://community.home-assistant.io/). [My Home Assistant](https://github.com/Ramon-87/Home-Assistant-config/) is constantly under construction.
   
 </details>
