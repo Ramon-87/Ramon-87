@@ -12,7 +12,7 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   |Motherboard         |Fujitsu            |D3642-B                   |1       |                                  |
   |CPU                 |Intel              |i3-8100                   |1       |                                  |
   |Cooler              |Artic              |Alpine 12 Passive         |1       |                                  |
-  |Memory              |Samsung            |M391A2K43BB1-CTD - 16GB   |2x      |                                  |
+  |Memory              |Samsung            |M391A2K43BB1-CTD - 16GB   |2       |                                  |
   |Harddrive           |Intel              |660p - 1TB                |1       |M2 SSD; host drive                |
   |Harddrive           |Seagate            |Expansion Portable - 5TB  |3       |Disassembled; RaidZ1; data drives |
   |Hardrive            |Seagate            |Expansion Portable - 5TB  |1       |back-up drive                     |
