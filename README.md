@@ -1,4 +1,12 @@
 <details>
+  <summary>Server/network details</summary>
+  
+  ## Server hardware
+  <i>to do</i>
+  
+</details>
+
+<details>
   <summary>Proxmox LXC's</summary>
   
   ## Proxmox LXC's
