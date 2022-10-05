@@ -47,7 +47,8 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   ### Ubiquiti Unifi Configurations
   Below you can find my configurations and files I use with my Unifi setup.
   
-  1. [Unifi G4 doorbell - sounds](https://github.com/Ramon-87/Unifi-G4-Doorbel-sounds)
+  1. [IPTV - KPN](https://github.com/Ramon-87/udm-iptv)
+  2. [Unifi G4 doorbell - sounds](https://github.com/Ramon-87/Unifi-G4-Doorbel-sounds)
     
 </details>
 
