@@ -20,6 +20,9 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   |AC-adapter          |Leicke             |ULL Power Suply 120W      |1       |                                  |
   |Case                |Be Quiet           |Pure Base 600             |1       |                                  |
   
+  ## Server OS
+  My first server was hosting Ubuntu Server. Later when there came more needs it set-up the above server and installed [Proxmox](https://www.proxmox.com/) as an [hypervisor](https://nl.wikipedia.org/wiki/Hypervisor) with multiple VM's and LSC. My Proxmox configuration is added in a [repositorie](https://github.com/Ramon-87/Proxmox-config/).
+  
 </details>
   
 <details>
