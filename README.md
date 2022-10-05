@@ -9,7 +9,7 @@
 <details>
   <summary>Ubiquiti Unifi</summary>
   
-    <details>
+  #  <details>
       
       <summary>## Network hardware</summary>
         My network is build on Ubiquiti's Unifi. Unfortunately Ubiquiti isn't always that stable and there are some functions still missing on their controller. But I must admit, I love the all in one solution and UI.
@@ -19,16 +19,16 @@
   
       <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)
     
-    </details>
+ #   </details>
       
-    <details>
+ #   <details>
       
       <summary>## Ubiquiti Unifi</summary>
       Below you can find my configurations and files I use with my Unifi setup.
   
       1. Unifi G4 doorbell - sounds
 
-    </details>
+  #  </details>
   
 </details>
 
