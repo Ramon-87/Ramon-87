@@ -30,7 +30,7 @@
   
   <summary> Proxmox LXC's </summary>
   
-  ## Proxmox LXC's
+  ### Proxmox LXC's
   Since I discoverd [TTeck's Git](https://github.com/tteck/Proxmox), I'm all over in using his scripts. And he is really on fire, recently he added a lot of new containers.
   
 </details>
@@ -39,7 +39,7 @@
   
   <summary> Docker-compose configs </summary>
   
-  ## Docker-compose files
+  ### Docker-compose files
   In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn.
   
   1. Portainer
@@ -51,7 +51,10 @@
   
   <summary> Home Assistant </summary>
   
-  ## Home Assistant configuration
+  ### 🏡 Home Assistant configuration
   [Home Assistant](https://github.com/home-assistant/core) is a Python based home automation software which can be hosted on you're own server. [The software](https://www.home-assistant.io/) is well supported by [the community](https://community.home-assistant.io/). [My Home Assistant](https://github.com/Ramon-87/Home-Assistant-config/) is constantly under construction.
+  
+ ### Devices
+ 
   
 </details>
