@@ -19,11 +19,10 @@
   
   <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)
 
-  <summary>## Ubiquiti Unifi</summary>
-    
+  <summary>## Ubiquiti Unifi</summary><p>    
   Below you can find my configurations and files I use with my Unifi setup.
   
-     1. Unifi G4 doorbell - sounds
+  1. Unifi G4 doorbell - sounds
     
 </details>
 
