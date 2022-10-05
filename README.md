@@ -13,7 +13,7 @@
   
   My network is build on Ubiquiti's Unifi. Unfortunately Ubiquiti isn't always that stable and there are some functions still missing on their controller. But I must admit, I love the all in one solution and UI.
   
-  <b>[UDM Pro](https://eu.store.ui.com/products/udm-pro)</b><p>
+  <b>[UDM Pro](https://eu.store.ui.com/products/udm-pro)</b><br />
   <i>The one in all controller for my Unifi Network and Unifi Protect (video surveillance).</i>
   
   <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)
