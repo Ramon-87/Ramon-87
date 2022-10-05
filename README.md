@@ -17,7 +17,7 @@
   <i>The one in all controller for my Unifi Network and Unifi Protect (video surveillance).</i>
   
   <b>[Switch 24 PoE](https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-24-poe)</b><br />
-  <i>A 24-ports switch with PoE where al the RJ45 cables are attached to. Some devices receive Power over Ethernet (PoE) from this switch, so there's no additional cable needed.
+  <i>A 24-ports switch with PoE where al the RJ45 cables are attached to. Some devices receive Power over Ethernet (PoE) from this switch, so there's no additional cable needed.</i>
 
   ## Ubiquiti Unifi
   Below you can find my configurations and files I use with my Unifi setup.
