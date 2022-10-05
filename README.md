@@ -9,6 +9,7 @@
 <details>
     <summary> Ubiquiti Unifi </summary>
       ## Network hardware
+  
       My network is build on Ubiquiti's Unifi. Unfortunately Ubiquiti isn't always that stable and there are some functions still missing on their controller. But I must admit, I love the all in one solution and UI.
   
       <b>[UDM Pro](https://eu.store.ui.com/products/udm-pro)</b>
