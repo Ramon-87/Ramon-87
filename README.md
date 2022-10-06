@@ -70,24 +70,18 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn. Check [my docker-compose files](https://github.com/Ramon-87/docker-compose/) to set up you're favourite programms.
   
   <details>
-    <summary> Portainer </summary>
+  <summary> Portainer </summary>
   
-    [Portainer](https://github.com/Ramon-87/docker-compose/tree/main/portainer) is a GUI to manage docker containers.
+  [Portainer](https://github.com/Ramon-87/docker-compose/tree/main/portainer) is a GUI to manage docker containers.
 
   </details>
 
   <details>
-    <summary> Wishlist </summary>
+  <summary> Wishlist </summary>
 
-    [Wishlist](https://github.com/Ramon-87/docker-compose/tree/main/wishlist) is created as a wishlist for Christmas. But it can also be used for other celebrations. I'm still looking for a better and cleaner solution.
+  [Wishlist](https://github.com/Ramon-87/docker-compose/tree/main/wishlist) is created as a wishlist for Christmas. But it can also be used for other celebrations. I'm still looking for a better and cleaner solution.
 
   </details>
-  
-  
-  1. Portainer (Manager for Docker containers)
-  2. Adguard Home (DNS Server / Ad blocker)
-  3. Nginx Proxy Manager (NPM; Reverse Proxy)
-  4. Wishlist (Create a wishlist for multiple users)
   
 </details>
 
