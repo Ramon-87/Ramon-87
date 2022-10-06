@@ -86,3 +86,14 @@ This github is dedicated to my homelab setup. It's build with a low energy build
  
   
 </details>
+
+<details>
+  
+  <summary> Cheat sheets </summary>
+  
+  ### Codes to remember
+  1. Zigbee2mqtt
+  2. ZwaveJS
+  3. Markdown
+  
+</details>
