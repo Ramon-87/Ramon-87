@@ -21,7 +21,7 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   |Case                |Be Quiet           |Pure Base 600             |1       |                                  |
   
   ## Server OS
-  My first server was hosting [Ubuntu Server](https://ubuntu.com/download/server). Later when there came more needs it set-up the above server and installed [Proxmox](https://www.proxmox.com/) as an [hypervisor](https://nl.wikipedia.org/wiki/Hypervisor) with multiple VM's and LSC. My Proxmox configuration is added in a [repositorie](https://github.com/Ramon-87/Proxmox-config/).
+  My first server was hosting [Ubuntu Server](https://ubuntu.com/download/server). Later when there came more needs it set-up the above server and installed [Proxmox](https://www.proxmox.com/) as an [hypervisor](https://nl.wikipedia.org/wiki/Hypervisor) with multiple VM's and LSC. My Proxmox configuration is added in a [repositorie](https://github.com/bes-r/Proxmox-config/).
   
 </details>
   
@@ -47,9 +47,9 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   ### Ubiquiti Unifi Configurations
   Below you can find my configurations and files I use with my UDM Pro/Unifi setup.
   
-  1. [Unifi UDM Pro configuaration](https://github.com/Ramon-87/Unifi_UDM_Pro-config)
-  2. [IPTV - KPN](https://github.com/Ramon-87/udm-iptv)
-  3. [Unifi G4 doorbell - sounds](https://github.com/Ramon-87/Unifi-G4-Doorbel-sounds)
+  1. [Unifi UDM Pro configuaration](https://github.com/bes-r/Unifi_UDM_Pro-config)
+  2. [IPTV - KPN](https://github.com/bes-r/udm-iptv)
+  3. [Unifi G4 doorbell - sounds](https://github.com/bes-r/Unifi-G4-Doorbel-sounds)
     
 </details>
 
@@ -67,19 +67,19 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   <summary> Docker-compose configs </summary>
   
   ### Docker-compose files
-  In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn. Check [my docker-compose files](https://github.com/Ramon-87/docker-compose/) to set up you're favourite programms.
+  In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn. Check [my docker-compose files](https://github.com/bes-r/docker-compose/) to set up you're favourite programms.
   
   <details>
   <summary> Portainer </summary>
   
-  [Portainer](https://github.com/Ramon-87/docker-compose/tree/main/portainer) is a GUI to manage docker containers.
+  [Portainer](https://github.com/bes-r/docker-compose/tree/main/portainer) is a GUI to manage docker containers.
 
   </details>
 
   <details>
   <summary> Wishlist </summary>
 
-  [Wishlist](https://github.com/Ramon-87/docker-compose/tree/main/wishlist) is created as a wishlist for Christmas. But it can also be used for other celebrations. I'm still looking for a better and cleaner solution.
+  [Wishlist](https://github.com/bes-r/docker-compose/tree/main/wishlist) is created as a wishlist for Christmas. But it can also be used for other celebrations. I'm still looking for a better and cleaner solution.
 
   </details>
   
@@ -90,7 +90,7 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   <summary> Home Assistant </summary>
   
   ### 🏡 Home Assistant configuration
-  [Home Assistant](https://github.com/home-assistant/core) is a Python based home automation software which can be hosted on you're own server. [The software](https://www.home-assistant.io/) is well supported by [the community](https://community.home-assistant.io/). [My Home Assistant](https://github.com/Ramon-87/Home-Assistant-config/) is constantly under construction.
+  [Home Assistant](https://github.com/home-assistant/core) is a Python based home automation software which can be hosted on you're own server. [The software](https://www.home-assistant.io/) is well supported by [the community](https://community.home-assistant.io/). [My Home Assistant](https://github.com/bes-r/Home-Assistant-config/) is constantly under construction.
   
  ### Devices
  
