@@ -69,6 +69,14 @@ This github is dedicated to my homelab setup. It's build with a low energy build
   ### Docker-compose files
   In the past I had a really hate-love story with Docker. So I used always LXC-containers within Proxmox. But some applications I run in Docker. Maybe, someday, I will turn. Check [my docker-compose files](https://github.com/bes-r/docker-compose/) to set up you're favourite programms.
   
+  
+  <details>
+  <summary> Adguard Home </summary>
+  
+  [Adguard Home]([https://github.com/bes-r/docker-compose/tree/main/portainer](https://github.com/bes-r/docker-compose/tree/main/adguard-home)) can work as a dns-server with adblocker and has also an option to work as a dhcp-server.
+
+  </details>
+  
   <details>
   <summary> Portainer </summary>
   
